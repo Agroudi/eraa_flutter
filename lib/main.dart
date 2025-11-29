@@ -1,4 +1,7 @@
+import 'package:eraa_flutter/analog_clock.dart';
+import 'package:eraa_flutter/appointments.dart';
 import 'package:eraa_flutter/messenger_screen.dart';
+import 'package:eraa_flutter/simple_text.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,7 +17,7 @@ class MyApp extends StatelessWidget
   {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: MessengerScreen(),
+      home: ClockScreen(),
     );
   }
 }

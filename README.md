@@ -1,2 +1,4 @@
 
-![Screenshot 2025-11-25 101726.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-11-25%20101726.png)
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
